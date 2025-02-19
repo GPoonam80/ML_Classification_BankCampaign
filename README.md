@@ -96,7 +96,3 @@ Develop a classification model to predict whether a customer will subscribe to a
 **📍Next Steps:** Improve model generalization and deploy for real-world application.
 
 
-
-
-
-
